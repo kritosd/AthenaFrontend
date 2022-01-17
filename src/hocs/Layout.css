@@ -1,0 +1,11 @@
+@media(min-width: 992px) {
+    .layoutContainer {
+        display: flex;
+    }
+
+    .navbar {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+}

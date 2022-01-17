@@ -1,0 +1,26 @@
+.categories > .row {
+    height: 100vh;
+}
+
+.col {
+    padding: 0;
+}
+
+.card {
+    height: 100%;
+    border: none;
+}
+
+.card-img-top {
+    height: 100%;
+    object-fit: cover;
+}
+
+.nav-link {
+    color: white;
+}
+
+.card-img, .card-img-top {
+    border: none;
+    border-radius: unset;
+}
